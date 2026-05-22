@@ -232,3 +232,8 @@ A program for help create the config file for i2pd
 For a now a better way to manual write the config file
 
 For usage just run ./AutoConf or AutoConf.exe
+
+
+## Related Projects
+
+[i2pbox](https://github.com/iasds/i2pbox) — all i2pd-tools merged into a single binary with subcommands.
